@@ -1,0 +1,5 @@
+﻿  Task3_IOCP_Eco_Client.cpp
+c:\users\cheongsu\desktop\cheongsu\3학년 2학기\server programming2\task\task3_iocp_eco_client\task3_iocp_eco_client\task3_iocp_eco_client.cpp(72): warning C4101: 'sendBytes' :참조되지 않은 지역 변수입니다.
+c:\users\cheongsu\desktop\cheongsu\3학년 2학기\server programming2\task\task3_iocp_eco_client\task3_iocp_eco_client\task3_iocp_eco_client.cpp(73): warning C4101: 'receiveBytes' :참조되지 않은 지역 변수입니다.
+c:\users\cheongsu\desktop\cheongsu\3학년 2학기\server programming2\task\task3_iocp_eco_client\task3_iocp_eco_client\task3_iocp_eco_client.cpp(74): warning C4101: 'flags' :참조되지 않은 지역 변수입니다.
+  Task3_IOCP_Eco_Client.vcxproj -> C:\Users\CheongSu\Desktop\CheongSu\3학년 2학기\Server Programming2\Task\Task3_IOCP_Eco_Client\Debug\Task3_IOCP_Eco_Client.exe
